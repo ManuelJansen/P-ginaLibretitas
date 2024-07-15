@@ -1,0 +1,19 @@
+.logotipo{
+    width: 60px;
+}
+
+img{
+    max-width: 100%;
+  }
+
+body{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #eae8f4;
+};
+
+
+
+
